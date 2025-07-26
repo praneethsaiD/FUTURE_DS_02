@@ -89,9 +89,8 @@ The interactive Power BI dashboard provides insights across several dimensions:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/your-username/social-media-campaign-tracker.git](https://github.com/your-username/social-media-campaign-tracker.git)
-    ```
-    *(Replace with your actual repository URL)*
+    git clone [[https://github.com/your-username/social-media-campaign-tracker.git](https://github.com/your-username/social-media-campaign-tracker.git)](https://github.com/praneethsaiD/FUTURE_DS_02/blob/main/TASK%202.pbix)
+
 
 2.  **Open Power BI Dashboard:**
     * Ensure you have Power BI Desktop installed (download from [Power BI website](https://powerbi.microsoft.com/en-us/downloads/)).
